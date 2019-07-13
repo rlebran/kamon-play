@@ -21,7 +21,7 @@ val kamonTestkit      = "io.kamon"  %%  "kamon-testkit"                 % "2.0.0
 val kamonScala        = "io.kamon"  %%  "kamon-scala-future"            % "2.0.0-RC1"
 val kamonCommon       = "io.kamon"  %%  "kamon-instrumentation-common"  % "2.0.0-RC2"
 val kamonAkkaHttp     = "io.kamon"  %%  "kamon-akka-http"               % "2.0.0-RC2"
-val kanelaAgent       = "io.kamon"  %   "kanela-agent"                  % "1.0.0-M3"
+val kanelaAgent       = "io.kamon"  %   "kanela-agent"                  % "1.0.0-RC4"
 
 val play              = "com.typesafe.play"       %%  "play"                  % play27Version
 val playNetty         = "com.typesafe.play"       %%  "play-netty-server"     % play27Version
